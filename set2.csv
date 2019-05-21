@@ -1,0 +1,96 @@
+part_name,volume,rotu_size,diff_grade,pressured_air,parts_per_minut,output_track,Hooking_grade,material,deformable,cost,time,file_name,voxels.npy
+O-Ring,117.19832947817913,S,6,No,-1,-1,No,steal,No,-1,-1,DR 1700 6x2.5.stl,set0
+O-Ring,1553.1223888723252,S,6,No,-1,-1,No,steal,No,-1,-1,DR 1700 40x4.stl,set1
+O-Ring,88.14749877862032,S,1,No,200,1,No,selicon/rubber,Yes,7000,14,DR 1700 8x2.stl,set2
+O-Ring,847.6155469111013,M,1,No,250,1,No,selicon/rubber,Yes,7000,14,DR 1700 20x4.stl,set3
+O-Ring,123.37487033651685,S,1,No,200,1,No,selicon/rubber,Yes,7000,14,DR 1700 12x2.stl,set4
+Hutmutter,25567.829501324803,S,6,No,-1,-1,No,steal,No,-1,-1,DIN 1587 - M24 x 3.stl,set5
+Hutmutter,1320.5702165048713,M,1,No,250,1,No,steal,No,7000,14,DIN 1587 - M8 x 1.25.stl,set6
+Hutmutter,207.94365538521734,S,2,No,200,1,No,steal,No,7000,14,DIN 1587 - M4 x 0.7.stl,set7
+Schraube,39.160083723342986,M,1,No,250,1,No,steal,No,7000,14,Bihler_Kombi_Schraube_M3_3.stl,set8
+Kombischraube,58.53211586346151,M,5,No,160,1,No,steal,No,17300,22,Bihler_Kombi_ZSB_M3_3.stl,set9
+Druckknopf,144.1622235463904,M,3,Yes,130,2,Yes,plastic,No,12150,18,Bihler_Rafi_Racon12_121.stl,set10
+Druckknopf,160.1366663658837,S,6,No,-1,-1,No,steal,No,-1,-1,Bihler_Rafi_Racon12_188.stl,set11
+Buchse,804.6940593877647,M,1,No,120,1,No,steal,No,7000,14,FKT_Spoiler_Buchse.stl,set12
+Buchse,804.6940593877647,S,6,No,-1,-1,No,steal,No,-1,-1,FKT_Spoiler_Buchse.stl,set13
+Sonder-Verbindungselement,2796.3666264447806,M,1,No,150,1,No,steal,No,7000,14,Bihler_Trunnion_5.stl,set14
+Sonder-Verbindungselement,1716.1204630991285,S,6,No,-1,-1,No,steal,No,-1,-1,Bihler_Trunnion_2.stl,set15
+Kontaktstift,69.78836779820055,M,2,Yes,130,1,No,steal,No,7000,18,Bihler_Harting_Buchse_4.stl,set16
+Kontaktstift,69.14482004825774,S,6,No,-1,-1,No,steal,No,-1,-1,Bihler_Harting_Stift_4.stl,set17
+Kontaktstift,75.79860312522281,M,2,Yes,130,1,No,steal,No,7000,18,Bihler_Harting_Stift_2.stl,set18
+Deckel,1222.7319130307726,M,3,No,130,1,Yes,steal,No,12150,18,Bihler_Deckel.stl,set19
+Deckel,1698.7576745394617,M,2,No,130,1,No,plastic,No,7000,18,Poeschel_Dosenboden.stl,set20
+Deckel,1698.7576745394617,M,1,No,130,1,No,steal,No,7000,14,Poeschel_Dosenboden.stl,set21
+Deckel,1698.7576745394617,S,6,No,-1,-1,No,steal,No,-1,-1,Poeschel_Dosenboden.stl,set22
+Sonder-Mutter,189.4902391793427,S,4,Yes,130,1,No,steal,No,12150,22,Bihler_Cambre_Mutter_M3.5.stl,set23
+Sonder-Mutter,189.4902391793427,S,6,No,-1,-1,No,steal,No,-1,-1,Bihler_Cambre_Mutter_M3.5.stl,set24
+Deckel,1222.7319130307726,S,6,No,-1,-1,No,steal,No,-1,-1,Bihler_Deckel.stl,set25
+Flaschenverschluss,5800.477274489423,S,6,No,-1,-1,No,steal,No,-1,-1,Bihler_Rauh_Buegeldeckel.stl,set26
+Flaschenverschluss,5800.477274489423,M,1,No,120,1,No,plastic,No,7000,14,Bihler_Rauh_Buegeldeckel.stl,set27
+Schraube,937.1926927626482,M,1,No,120,1,No,steal,No,7000,14,FKT_Spoiler_Schraube.stl,set28
+Kontaktbuchse,73.68438434371893,S,6,No,-1,-1,No,steal,No,-1,-1,Bihler_Harting_Buchse_7.stl,set29
+Kontaktbuchse,71.52355414112559,M,2,Yes,150,1,No,steal,No,7000,18,Bihler_Harting_Buchse_6.stl,set30
+Bewegkontakt,140.35224196467155,M,5,Yes,130,1,No,brass,No,17300,22,Bihler_Bewegkontakt.stl,set31
+Spannschloss,6693.667456789619,S,6,No,-1,-1,No,steal,No,-1,-1,DIN 1480 - SP - M6.stl,set32
+Spannschloss,26181.25601089538,S,1,No,-1,-1,No,steal,No,-1,-1,DIN 1480 - SP - M12.stl,set33
+Vierkantmutter,97.42149567604065,S,1,No,200,1,No,steal,No,7000,14,IFI - 3(16).stl,set34
+Vierkantmutter,97.42149567604065,S,1,No,-1,-1,No,steal,No,-1,-1,IFI - 3(16).stl,set35
+Vierkantmutter,693.1365235646566,M,1,No,250,1,No,steal,No,7000,14,IFI - 8(16).stl,set36
+Vierkantmutter,193.2292946179708,S,1,No,150,1,No,steal,No,7000,14,IFI - 5(16).stl,set37
+Vierkantmutter,893.0203293884794,S,6,No,-1,-1,No,steal,No,-1,-1,IFI - 10(16).stl,set38
+Sechskantmutter,8.615105273130329,S,1,No,200,1,No,steal,No,7000,14,DIN EN ISO 4032 - M1.6.stl,set39
+Sechskantmutter,258389.43937057757,S,6,No,-1,-1,No,steal,No,-1,-1,DIN EN ISO 4032 - M64.stl,set40
+Sechskantmutter,336.2375775428755,M,1,No,200,1,No,steal,No,7000,14,DIN EN ISO 4032 - M6.stl,set41
+Sechskantmutter,101.58094796683311,M,1,No,200,1,No,steal,No,7000,14,DIN EN ISO 4032 - M4.stl,set42
+O-Ring,1905.5232235747244,L,1,No,150,1,No,selicon/rubber,Yes,7000,14,DR 1700 50x4.stl,set43
+O-Ring,66.74369446436403,M,1,No,150,1,No,selicon/rubber,Yes,7000,14,DR 1700 12x1.5.stl,set44
+Beilagscheibe,799.0444739957651,M,1,No,130,1,No,steal,No,7000,14,DIN EN ISO 7089 -  12.stl,set45
+Beilagscheibe,56.471052971978985,S,6,No,-1,-1,No,steal,No,-1,-1,DIN EN ISO 7089 -  5.stl,set46
+Beilagscheibe,19.754155169726193,S,1,No,130,1,No,steal,No,7000,14,DIN EN ISO 7089 -  3.5.stl,set47
+Blindniet,399.57448728615174,S,2,No,100,1,No,steal,No,7000,14,IFI 505 - 66 x 8.7(4).stl,set48
+Blindniet,60.67237316448234,S,1,No,130,1,No,steal,No,7000,14,IFI 505 - 34 x 6(4).stl,set49
+Schraubbolzen,0.15738840880415714,S,1,No,130,1,No,steal,No,7000,14,ISO 2341 - A - 3 x 22DIN EN.stl,set50
+Schraubbolzen,0.1394710976164788,S,6,No,-1,-1,No,steal,No,-1,-1,ISO 2341 - A - 4 x 10DIN EN.stl,set51
+Zahnrad,25.87932127232766,S,6,No,-1,-1,No,steal,No,-1,-1,ASME B18.21.2M - 4.8 - Typ AFA.stl,set52
+Langmutter,195.55728573977663,S,1,No,120,1,No,steal,No,7000,14,Nut GB_T 17880.1-1999 M4 x 9.stl,set53
+Langmutter,955.8501413411977,S,6,No,-1,-1,No,steal,No,-1,-1,Nut GB_T 17880.1-1999 M8 x 16.5.stl,set54
+Langmutter,327.92331832082255,M,1,No,130,1,No,steal,No,7000,14,Nut GB_T 17880.1-1999 M5 x 13.stl,set55
+Passstift,1122.9781997433554,M,1,No,130,1,No,steal,No,7000,14,ISO 8734 - 6 x 40 - ADIN EN.stl,set56
+Passstift,501.7063419607778,S,6,No,-1,-1,No,steal,No,-1,-1,ISO 8734 - 6 x 18 - ADIN EN.stl,set57
+Stiftschraube,126.9866093014122,S,1,No,130,1,No,steal,No,7000,14,CHA-M4-6.stl,set58
+Stiftschraube,373.15771828786336,S,6,No,-1,-1,No,steal,No,-1,-1,CHA-M5-16.stl,set59
+Stiftschraube,549.6957909475774,M,1,No,130,1,No,steal,No,7000,14,CHA-M5-25.stl,set60
+Winkelstck,6075.841087438547,M,4,Yes,80,1,No,brass,No,12150,18,Parker Hose Barb 90 Elbow to Male Pipe 129HB 129HB-5-6.stl,set61
+Winkelstck,20466.110681909046,S,6,No,-1,-1,No,steal,No,-1,-1,Parker Hose Barb 90 Elbow to Male Pipe 129HB 129HB-12-12.stl,set62
+Tlle,2779.427588415281,M,1,No,80,1,No,plastic,No,7000,14,Parker Schlauchtlle mit Gewinde 125HBL 125HBL-6-4.stl,set63
+Tlle,1272.6693318919704,M,1,No,100,1,No,plastic,No,7000,14,Parker Schlauchtlle mit Gewinde 125HBL 125HBL-5-2.stl,set64
+Mutter,1646.8835870976218,M,1,No,130,1,No,steal,No,7000,14,CSN 021461 - M5.stl,set65
+Mutter,164.64756961019998,S,6,No,-1,-1,No,steal,No,-1,-1,CSN 021461 - M2.stl,set66
+Mutter,10771.457306212049,S,6,No,-1,-1,No,steal,No,-1,-1,CSN 021461 - M10.stl,set67
+Schieberelement,214797.4456123809,S,6,No,-1,-1,No,steal,No,-1,-1,AAPRWS30-60-A28.stl,set68
+Mutter,146.68650528183764,S,2,Yes,100,1,No,steal,No,7000,14,CNS 4469 - M 4 x 0.7.stl,set69
+Mutter,10033.451396795053,S,6,No,-1,-1,No,steal,No,-1,-1,CNS 4469 - M 20 x 2.5.stl,set70
+Sonder-Unterlegscheibe,33.30587830239286,S,4,Yes,80,1,No,steal,No,12150,18,Washer GB_T 854-1988 3.stl,set71
+Verschlussschraube,746.7693434118864,M,3,Yes,130,1,No,steal,No,12150,18,_Z94-12x1.5_.stl,set72
+Deckel,1222.7319130307726,M,2,No,50,1,No,steal,No,12150,18,Bihler_Deckel.stl,set73
+Trunnion,2665.054942919393,M,1,No,100,1,No,steal,No,7000,14,Bihler_Trunnion_1.stl,set74
+Harting Buchse 2,68.37507262371614,S,2,No,90,2,No,steal,No,7000,14,Bihler_Harting_Buchse_2.stl,set75
+Harting Buchse 2,68.37507262371614,S,1,No,100,2,No,steal,No,7000,14,Bihler_Harting_Buchse_2.stl,set76
+Vierkantmutter,108.58503752519937,S,4,No,120,1,No,steal,No,12150,18,Bihler_Mutter_M3.5.stl,set77
+Vierkantmutter,108.58503752519937,S,4,No,100,1,No,steal,No,12150,18,Bihler_Mutter_M3.5.stl,set78
+Innenring,764.5903547959557,M,3,No,70,1,No,steal,No,7000,14,Rollax_Innenring_1.stl,set79
+ASME 3.5,8.02660039374967,S,3,No,120,1,Yes,steal,No,12150,18,ASME B18.21.2M - 3.5 - Typ AFA.stl,set80
+ASME 12,257.8959933476311,M,2,No,70,1,No,steal,No,12150,18,ASME B18.21.2M - 12 - Typ AFA.stl,set81
+ASME 6,44.168895191662635,S,1,No,90,1,No,steal,No,7000,14,ASME B18.21.2M - 6 - Typ AFA.stl,set82
+ASME 6,44.168895191662635,S,3,No,80,1,No,steal,No,7000,18,ASME B18.21.2M - 6 - Typ AFA.stl,set83
+ASME 6,44.168895191662635,M,3,No,100,2,No,steal,No,12150,18,ASME B18.21.2M - 6 - Typ AFA.stl,set84
+Nut M3,124.68218755842594,S,1,No,180,1,No,steal,No,7000,14,Nut GB_T 17880.1-1999 M3 x 7.5.stl,set85
+Nut M6,619.2216706610587,M,5,No,120,1,No,steal,No,12150,18,Nut GB_T 17880.1-1999 M6 x 13.5.stl,set86
+Nut M8,998.6296080417018,M,4,No,130,1,No,steal,No,12150,18,Nut GB_T 17880.1-1999 M8 x 18.stl,set87
+Nut M6,706.6534221829907,M,4,No,150,1,No,steal,No,12150,18,Nut GB_T 17880.1-1999 M6 x 18.stl,set88
+Nut M12,1998.9970756142782,M,4,No,120,1,No,steal,No,12150,18,Nut GB_T 17880.1-1999 M12 x 21.stl,set89
+Bewegkontakt,140.35224196467155,M,6,Yes,90,1,No,steal,No,17300,22,Bihler_Bewegkontakt.stl,set90
+Bewegkontakt,140.35224196467155,M,6,Yes,90,1,No,steal,No,17300,22,Bihler_Bewegkontakt.stl,set91
+Bewegkontakt,77.11022443276254,S,6,Yes,80,1,No,steal,No,17300,22,Bihler_Multikontakt.stl,set92
+Multikontakt,77.11022443276254,S,6,Yes,80,1,No,steal,No,17300,22,Bihler_Multikontakt.stl,set93
+Multikontakt,77.11022443276254,S,6,Yes,90,1,No,brass,No,17300,22,Bihler_Multikontakt.stl,set94
